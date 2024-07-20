@@ -2,7 +2,7 @@
 local whitelist = {
 ["IZDIzd6"] = true,
     ["darkzuees"] = true,
-    ["User3"] = true,
+    ["FxP_Farming8"] = true,
     ["User4"] = true,
     ["User5"] = true,
 }
