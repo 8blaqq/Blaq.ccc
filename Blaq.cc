@@ -27,7 +27,7 @@ for _, player in ipairs(game.Players:GetPlayers()) do
     if not isWhitelisted(player) then
         player:Kick("Not Whitelisted Buy The Script Nigga")
     else
-        -- getgenv().Blaqcc = {
+        getgenv().Blaqcc = {
     ["Aim Assist"] = {
         ["Enabled"] = true,
         ["Keybind"] = {
